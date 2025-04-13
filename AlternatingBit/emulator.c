@@ -1,11 +1,4 @@
-//==================================
-// Computer Networks & Applications
-// Student: Vandit Jyotindra Gajjar
-// Student ID: a1779153
-// Semester: 1
-// Year: 2020
-// Assignment: 2
-//===================================
+
 
 /* ***** THIS FILE SHOULD NOT BE MODIFIED ****************************
    THERE IS NOT REASON THAT ANY STUDENT SHOULD HAVE TO READ OR UNDERSTAND
